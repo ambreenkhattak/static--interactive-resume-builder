@@ -1,1 +1,1 @@
-# static--interactive-resume-builder
+# static-interactive-resume-builder
